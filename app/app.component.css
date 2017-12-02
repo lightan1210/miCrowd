@@ -1,0 +1,25 @@
+.columna2
+{
+	float: left;
+	width: 50%;
+}
+
+.columna3
+{
+	float: left;
+	width: 33.33333%;
+}
+
+li
+{
+	text-align: center;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
